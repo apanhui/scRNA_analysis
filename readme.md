@@ -18,3 +18,11 @@
 ### step4.PAGA.py
 
 + PAGA analysis
+
+### step5.entropy.R
+
++ Calculate scEntropies of individual cells
+
+### step6.cellphonedb.sh
+
++ Cell interaction analysis
